@@ -4,7 +4,6 @@
 // 7  9 11 13 15
 // 9 11 13 15 17
 
-
 public class Pattern17 {
     public static void main(String[] args) {
         int n = 5;
